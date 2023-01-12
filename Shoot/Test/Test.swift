@@ -13,4 +13,7 @@ public class Test {
     public func printOne(){
         print("One")
     }
+    public func printTestTwo(){
+        print("Two")
+    }
 }
